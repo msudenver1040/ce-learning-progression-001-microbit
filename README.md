@@ -1,19 +1,20 @@
-# CPE 1040
-```
-  _           _       _   _       _       _                 _    
- | |         | |     | \ | |     | |     | |               | |   
- | |     __ _| |__   |  \| | ___ | |_ ___| |__   ___   ___ | | __
- | |    / _` | '_ \  | . ` |/ _ \| __/ _ \ '_ \ / _ \ / _ \| |/ /
- | |___| (_| | |_) | | |\  | (_) | ||  __/ |_) | (_) | (_) |   < 
- |______\__,_|_.__/  |_| \_|\___/ \__\___|_.__/ \___/ \___/|_|\_\
-                                                                                                                      
-```
-Art acknowledgement: [taag](http://patorjk.com/software/taag/)
+# Lab Notebook – CPE 1040
 
-**Directions:** 
-1. This [README](README.md) is _intentionally left_ blank, to be used as the _Lab Notebook_ for the learning progression & submission. _It is a great aid for your study and the main component of your submission._
-2. Read and follow the [learning progression](learning-progression.md).
-3. Refer to the [submission example](submission-example.md) for formatting expectations and examples. 
+## Step 1: One-line Program
+
+### Program
+Link to file: [microbit-program-1-1.js](programs/microbit-program-1-1.js)
+
+### Notes
+- Practiced writing a one-line program.  
+- Learned about binary shifts and LED output.  
+
 ---
 
-_Your study and submission work here..._
+## Step 2: Comments
+
+### Program
+Link to file: [microbit-program-2-2-2.js](programs/microbit-program-2-2-2.js)
+
+### Notes
+- Added block and inline comments to explain the code.
